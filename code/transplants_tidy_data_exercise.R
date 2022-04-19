@@ -46,9 +46,9 @@ trplants_tidy %>% select_if(is.factor) %>% sapply(levels)
 # The above code should give you the correct filled table in the console as well as the environment under the name "trplants_filtered_*column*_*filter*", if the column name and level name were entered **EXACTLY** correctly
 
 # Some summary tables and figure ####
-# Some summary informative tables will be created, as well as a figure to ... 
+# Some sample informative summary tables will be created, as well as a figure to conpare all of the measured quantities between the different sites
 
-# Means of all measured quantities seperated by biome type
+# Means of all measured quantities separated by biome type
 (trplants_biome_mean_all <- trplants_tidy %>% group_by(Biome, Quantity) %>% summarise(`Mean measurements` = mean(Value,na.rm=TRUE)))
 
 # Mean area cover of both protea species
@@ -63,9 +63,14 @@ trplants_tidy %>% select_if(is.factor) %>% sapply(levels)
 # Total number of individuals found in each biome
 (trplants_planttype_count <- trplants_tidy %>% group_by(`Plant growth type`) %>% summarise(`Total number of individual plants found across the years` = sum(Value[Quantity %like% "individuals"],na.rm=TRUE)))
 
-
-
-
+# Creating a plot showing each of the quantities for each site
+(trplants_siteID_all_plot <- trplants_tidy %>% ggplot() +
+  geom_boxplot(aes(y = Value, x = SiteID)) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  facet_wrap(vars(Quantity), scales = "free"))
+# Saving the plot to folder
+  ggsave("./outputs/trplants_siteID_all_plot.png")
+  
 # Exporting tables ####
 # You can export any of the tables generated here to the "outputs" subfolder of this project if you wish to save them for future use in further analyses.
 # Fill in the name of your desired table in the following line (within the "expr()" function)
