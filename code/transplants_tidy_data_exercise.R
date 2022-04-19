@@ -32,15 +32,16 @@ cpdat_tidy$Measure <- as.character(cpdat_tidy$Measure)
 # In this section the user can enter what parameters they desire to be filtered and selected from the rows, text will need to be entered at various points to continue the process
 
 # Summary will give the names and type of every column so that you can determine which column is interesting for you
-summary(cpdat_tidy)
+cpdat_tidy %>% select_if(is.factor) %>% sapply(levels)
 
-## Enter column you would like to apply your filter to here, with the name EACTLY as printed in the console, meaning you need to include backticks (``) as well. you will get a list of all possible options in that column
- filter_column <- "`Plant Growth`"
-  
-  
-    sapply(cpdat_tidy[sapply(cpdat_tidy, is.factor)], levels)
 
+## Enter column you would like to apply your filter to here, with the name EACTLY as printed in the console, meaning you need to include backticks (``) as well. After the semicolon (;) enter the filter within that column you would like to apply (again copied exactly as presented in the console)
+ {filter_column <- "`Plant growth type`"; filter_level <- "Tree"
+ 
+ cpdat_tidy %>% filter(noquote(filter_column) == paste(filter_level))
+  
+}
 distinct(cpdat_tidy, Type)
 
-cpdat_tidy %>% sapply(is.factor) %>% sapply(levels)
+
 
