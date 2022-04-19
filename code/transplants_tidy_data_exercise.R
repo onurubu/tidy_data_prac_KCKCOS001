@@ -6,7 +6,7 @@
   library(tidyverse)
   library(data.table)
   library(readxl) # call the libraries with the functions we want to use
-  {trplants_0 <- read_xls("data/transplants_29May2012.xls", sheet = "dataframe", na = "NA") # Read the data with the correct sheet selected, and make sure that all instances of "NA" are treated as proper blanks since this was giving issues previously
+  {trplants_0 <- read_xls("data/raw/transplants_29May2012.xls", sheet = "dataframe", na = "NA") # Read the data with the correct sheet selected, and make sure that all instances of "NA" are treated as proper blanks since this was giving issues previously
   trplants_0[sapply(trplants_0, is.character)] <- lapply(trplants_0[sapply(trplants_0, is.character)], as.factor) # Make all string variables into factors since each has multiple categories that are repeated and can be grouped by
     } # trplants_0 is the raw data
 
@@ -27,6 +27,7 @@
     
 trplants_tidy[sapply(trplants_tidy, is.character)] <- lapply(trplants_tidy[sapply(trplants_tidy, is.character)], as.factor) # Make all string variables into factors since each has multiple categories that are repeated
 trplants_tidy$Quantity <- as.character(trplants_tidy$Quantity)
+write.table(trplants_tidy, file = paste("./data/tidy/transplants_29may2012_tidy.csv"))
     }
 
 # User specified tables ####
