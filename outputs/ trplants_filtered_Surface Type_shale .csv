@@ -1,0 +1,406 @@
+"Species" "SiteID" "Surface Type" "Plant growth type" "Biome" "Measure" "Value"
+"1" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Area cover in 1994 (cm^2)" 0
+"2" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 0
+"3" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Number of individuals in 1994" 0
+"4" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"5" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"6" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Number of individuals in 2008" 0
+"7" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"8" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"9" "Protea lorifolia" "2a" "shale" "Protea" "Fynbos" "Number of individuals in 2012" 0
+"10" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Area cover in 1994 (cm^2)" 783
+"11" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 272
+"12" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Number of individuals in 1994" 39
+"13" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Area cover in 2008 (cm^2)" 8150
+"14" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 2319
+"15" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Number of individuals in 2008" 8
+"16" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Area cover in 2012 (cm^2)" 9900
+"17" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"18" "Protea lorifolia" "4a" "shale" "Protea" "Fynbos" "Number of individuals in 2012" 1
+"19" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Area cover in 1994 (cm^2)" 800
+"20" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 304
+"21" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Number of individuals in 1994" 41
+"22" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Area cover in 2008 (cm^2)" 22750
+"23" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 2552
+"24" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Number of individuals in 2008" 20
+"25" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Area cover in 2012 (cm^2)" 1800
+"26" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"27" "Protea lorifolia" "5a" "shale" "Protea" "Fynbos" "Number of individuals in 2012" 6
+"28" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Area cover in 1994 (cm^2)" 87
+"29" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 17
+"30" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Number of individuals in 1994" 3
+"31" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"32" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"33" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Number of individuals in 2008" 0
+"34" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"35" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"36" "Protea neriifolia" "2a" "shale" "Protea" "Fynbos" "Number of individuals in 2012" 0
+"37" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Area cover in 1994 (cm^2)" 1878
+"38" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 827
+"39" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Number of individuals in 1994" 76
+"40" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Area cover in 2008 (cm^2)" 7558
+"41" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 3416
+"42" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Number of individuals in 2008" 24
+"43" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"44" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"45" "Protea neriifolia" "4a" "shale" "Protea" "Fynbos" "Number of individuals in 2012" 0
+"46" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Area cover in 1994 (cm^2)" 2191
+"47" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 860
+"48" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Number of individuals in 1994" 73
+"49" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Area cover in 2008 (cm^2)" 29000
+"50" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 15982
+"51" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Number of individuals in 2008" 22
+"52" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Area cover in 2012 (cm^2)" 4435
+"53" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 1430
+"54" "Protea neriifolia" "5a" "shale" "Protea" "Fynbos" "Number of individuals in 2012" 45
+"55" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Area cover in 1994 (cm^2)" 0
+"56" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 0
+"57" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Number of individuals in 1994" 0
+"58" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"59" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"60" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Number of individuals in 2008" 0
+"61" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"62" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"63" "Mastersiella purpurea" "2a" "shale" "Restio" "Fynbos" "Number of individuals in 2012" 0
+"64" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Area cover in 1994 (cm^2)" 152
+"65" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 81
+"66" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Number of individuals in 1994" 8
+"67" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"68" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"69" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Number of individuals in 2008" 0
+"70" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"71" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"72" "Mastersiella purpurea" "4a" "shale" "Restio" "Fynbos" "Number of individuals in 2012" 0
+"73" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Area cover in 1994 (cm^2)" 153
+"74" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 95
+"75" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Number of individuals in 1994" 10
+"76" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"77" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"78" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Number of individuals in 2008" 0
+"79" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"80" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"81" "Mastersiella purpurea" "5a" "shale" "Restio" "Fynbos" "Number of individuals in 2012" 0
+"82" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Area cover in 1994 (cm^2)" 0
+"83" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 0
+"84" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Number of individuals in 1994" 0
+"85" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"86" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"87" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Number of individuals in 2008" 0
+"88" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"89" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"90" "Hypodiscus aristatus" "2a" "shale" "Restio" "Fynbos" "Number of individuals in 2012" 0
+"91" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Area cover in 1994 (cm^2)" 128
+"92" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 59
+"93" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Number of individuals in 1994" 8
+"94" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"95" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"96" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Number of individuals in 2008" NA
+"97" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"98" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"99" "Hypodiscus aristatus" "4a" "shale" "Restio" "Fynbos" "Number of individuals in 2012" 0
+"100" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Area cover in 1994 (cm^2)" 88
+"101" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 31
+"102" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Number of individuals in 1994" 3
+"103" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"104" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"105" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Number of individuals in 2008" NA
+"106" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Area cover in 2012 (cm^2)" 6875
+"107" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 2223
+"108" "Hypodiscus aristatus" "5a" "shale" "Restio" "Fynbos" "Number of individuals in 2012" 4
+"109" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Area cover in 1994 (cm^2)" 1160
+"110" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 152
+"111" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Number of individuals in 1994" 2
+"112" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"113" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"114" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2008" 0
+"115" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"116" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"117" "Metalasia massonii" "2a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2012" 0
+"118" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Area cover in 1994 (cm^2)" 2826
+"119" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 809
+"120" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Number of individuals in 1994" 13
+"121" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"122" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"123" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2008" 0
+"124" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"125" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"126" "Metalasia massonii" "4a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2012" 0
+"127" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Area cover in 1994 (cm^2)" 2512
+"128" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 622
+"129" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Number of individuals in 1994" 7
+"130" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"131" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"132" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2008" 0
+"133" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"134" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"135" "Metalasia massonii" "5a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2012" 0
+"136" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Area cover in 1994 (cm^2)" 374
+"137" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 0
+"138" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Number of individuals in 1994" 1
+"139" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Area cover in 2008 (cm^2)" 0
+"140" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 0
+"141" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2008" 0
+"142" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"143" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"144" "Phylica lachnaeoides" "2a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2012" 0
+"145" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Area cover in 1994 (cm^2)" 1584
+"146" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 701
+"147" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Number of individuals in 1994" 13
+"148" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"149" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"150" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2008" NA
+"151" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Area cover in 2012 (cm^2)" 866
+"152" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 311
+"153" "Phylica lachnaeoides" "4a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2012" 22
+"154" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Area cover in 1994 (cm^2)" 2099
+"155" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 660
+"156" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Number of individuals in 1994" 17
+"157" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"158" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"159" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2008" NA
+"160" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Area cover in 2012 (cm^2)" 6091
+"161" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 1663
+"162" "Phylica lachnaeoides" "5a" "shale" "Ericoid" "Fynbos" "Number of individuals in 2012" 34
+"163" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 1994 (cm^2)" 3210
+"164" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 2871
+"165" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 1994" 10
+"166" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"167" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"168" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 2008" NA
+"169" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"170" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"171" "Hermannia salvifolia" "2a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 2012" 0
+"172" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 1994 (cm^2)" 5407
+"173" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 1364
+"174" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 1994" 8
+"175" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"176" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"177" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 2008" NA
+"178" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 2012 (cm^2)" 1243
+"179" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 493
+"180" "Hermannia salvifolia" "4a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 2012" 78
+"181" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 1994 (cm^2)" 5657
+"182" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 1550
+"183" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 1994" 10
+"184" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"185" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"186" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 2008" NA
+"187" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"188" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"189" "Hermannia salvifolia" "5a" "shale" "Fynbos pioneer" "Fynbos" "Number of individuals in 2012" 0
+"190" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Area cover in 1994 (cm^2)" 418
+"191" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 137
+"192" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Number of individuals in 1994" 4
+"193" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"194" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"195" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2008" NA
+"196" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Area cover in 2012 (cm^2)" 0
+"197" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"198" "Pentameris eriostoma" "2a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2012" 0
+"199" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Area cover in 1994 (cm^2)" 571
+"200" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 284
+"201" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Number of individuals in 1994" 10
+"202" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"203" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"204" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2008" NA
+"205" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Area cover in 2012 (cm^2)" 2914
+"206" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 1045
+"207" "Pentameris eriostoma" "4a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2012" 7
+"208" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Area cover in 1994 (cm^2)" 964
+"209" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 650
+"210" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Number of individuals in 1994" 8
+"211" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"212" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"213" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2008" NA
+"214" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Area cover in 2012 (cm^2)" 3500
+"215" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 1453
+"216" "Pentameris eriostoma" "5a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2012" 3
+"217" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Area cover in 1994 (cm^2)" 177
+"218" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 77
+"219" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Number of individuals in 1994" 15
+"220" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"221" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"222" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2008" NA
+"223" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Area cover in 2012 (cm^2)" 1600
+"224" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 566
+"225" "Merxmuellera disticha" "2a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2012" 2
+"226" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Area cover in 1994 (cm^2)" 123
+"227" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 79
+"228" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Number of individuals in 1994" 19
+"229" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"230" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"231" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2008" NA
+"232" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Area cover in 2012 (cm^2)" 1060
+"233" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 918
+"234" "Merxmuellera disticha" "4a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2012" 10
+"235" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Area cover in 1994 (cm^2)" 175
+"236" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 56
+"237" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Number of individuals in 1994" 19
+"238" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Area cover in 2008 (cm^2)" NA
+"239" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"240" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2008" NA
+"241" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Area cover in 2012 (cm^2)" 1446
+"242" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 307
+"243" "Merxmuellera disticha" "5a" "shale" "C3 grass" "Fynbos" "Number of individuals in 2012" 13
+"244" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Area cover in 1994 (cm^2)" 738
+"245" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 1994 (cm^2)" 351
+"246" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Number of individuals in 1994" 9
+"247" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Area cover in 2008 (cm^2)" NA
+"248" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"249" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Number of individuals in 2008" NA
+"250" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Area cover in 2012 (cm^2)" NA
+"251" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 2012 (cm^2)" NA
+"252" "Themeda triandra" "2a" "shale" "C4 grass" "Mixed" "Number of individuals in 2012" NA
+"253" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Area cover in 1994 (cm^2)" 1114
+"254" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 1994 (cm^2)" 452
+"255" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Number of individuals in 1994" 6
+"256" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Area cover in 2008 (cm^2)" NA
+"257" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"258" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Number of individuals in 2008" NA
+"259" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Area cover in 2012 (cm^2)" NA
+"260" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 2012 (cm^2)" NA
+"261" "Themeda triandra" "4a" "shale" "C4 grass" "Mixed" "Number of individuals in 2012" NA
+"262" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Area cover in 1994 (cm^2)" 618
+"263" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 1994 (cm^2)" 304
+"264" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Number of individuals in 1994" 4
+"265" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Area cover in 2008 (cm^2)" NA
+"266" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"267" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Number of individuals in 2008" NA
+"268" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Area cover in 2012 (cm^2)" NA
+"269" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Standard Deviation of area cover in 2012 (cm^2)" NA
+"270" "Themeda triandra" "5a" "shale" "C4 grass" "Mixed" "Number of individuals in 2012" NA
+"271" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 119
+"272" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 131
+"273" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 22
+"274" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"275" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"276" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"277" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 1708
+"278" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 1785
+"279" "Schotia latifolia" "2a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 10
+"280" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 128
+"281" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 71
+"282" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 18
+"283" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"284" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"285" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"286" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 494
+"287" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 717
+"288" "Schotia latifolia" "4a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 18
+"289" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 231
+"290" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 211
+"291" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 17
+"292" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"293" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"294" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"295" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 3742
+"296" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 2665
+"297" "Schotia latifolia" "5a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 19
+"298" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 77
+"299" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 0
+"300" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 1
+"301" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"302" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"303" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"304" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 0
+"305" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"306" "Smellophyllum capense" "2a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 0
+"307" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 88
+"308" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 43
+"309" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 13
+"310" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"311" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"312" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"313" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 161
+"314" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 91
+"315" "Smellophyllum capense" "4a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 2
+"316" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 50
+"317" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 11
+"318" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 8
+"319" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"320" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"321" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"322" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 1000
+"323" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"324" "Smellophyllum capense" "5a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 1
+"325" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 105
+"326" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 98
+"327" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 57
+"328" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"329" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"330" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"331" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 41080
+"332" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 36973
+"333" "Acacia karoo" "2a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 5
+"334" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 187
+"335" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 190
+"336" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 66
+"337" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"338" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"339" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"340" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 1142
+"341" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 2019
+"342" "Acacia karoo" "4a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 30
+"343" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Area cover in 1994 (cm^2)" 263
+"344" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 264
+"345" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Number of individuals in 1994" 51
+"346" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Area cover in 2008 (cm^2)" NA
+"347" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"348" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Number of individuals in 2008" NA
+"349" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Area cover in 2012 (cm^2)" 2859
+"350" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 3942
+"351" "Acacia karoo" "5a" "shale" "Tree" "Thicket" "Number of individuals in 2012" 20
+"352" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Area cover in 1994 (cm^2)" 84
+"353" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 56
+"354" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Number of individuals in 1994" 17
+"355" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Area cover in 2008 (cm^2)" NA
+"356" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"357" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Number of individuals in 2008" NA
+"358" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Area cover in 2012 (cm^2)" 10450
+"359" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"360" "Crassula ovata" "2a" "shale" "Succulent" "Thicket" "Number of individuals in 2012" 1
+"361" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Area cover in 1994 (cm^2)" 86
+"362" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 49
+"363" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Number of individuals in 1994" 19
+"364" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Area cover in 2008 (cm^2)" NA
+"365" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"366" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Number of individuals in 2008" NA
+"367" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Area cover in 2012 (cm^2)" 0
+"368" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"369" "Crassula ovata" "4a" "shale" "Succulent" "Thicket" "Number of individuals in 2012" 0
+"370" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Area cover in 1994 (cm^2)" 165
+"371" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 122
+"372" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Number of individuals in 1994" 15
+"373" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Area cover in 2008 (cm^2)" NA
+"374" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"375" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Number of individuals in 2008" NA
+"376" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Area cover in 2012 (cm^2)" 0
+"377" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"378" "Crassula ovata" "5a" "shale" "Succulent" "Thicket" "Number of individuals in 2012" 0
+"379" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Area cover in 1994 (cm^2)" 308
+"380" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 375
+"381" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Number of individuals in 1994" 19
+"382" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Area cover in 2008 (cm^2)" NA
+"383" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"384" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Number of individuals in 2008" NA
+"385" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Area cover in 2012 (cm^2)" 3701
+"386" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 3778
+"387" "Portulacaria afra" "2a" "shale" "Succulent" "Thicket" "Number of individuals in 2012" 10
+"388" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Area cover in 1994 (cm^2)" 22
+"389" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 14
+"390" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Number of individuals in 1994" 20
+"391" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Area cover in 2008 (cm^2)" NA
+"392" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"393" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Number of individuals in 2008" NA
+"394" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Area cover in 2012 (cm^2)" 0
+"395" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"396" "Portulacaria afra" "4a" "shale" "Succulent" "Thicket" "Number of individuals in 2012" 0
+"397" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Area cover in 1994 (cm^2)" 34
+"398" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 40
+"399" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Number of individuals in 1994" 17
+"400" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Area cover in 2008 (cm^2)" NA
+"401" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"402" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Number of individuals in 2008" NA
+"403" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Area cover in 2012 (cm^2)" 0
+"404" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 0
+"405" "Portulacaria afra" "5a" "shale" "Succulent" "Thicket" "Number of individuals in 2012" 0

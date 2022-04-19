@@ -1,0 +1,28 @@
+"Biome" "Quantity" "Mean measurements"
+"1" "Fynbos" "Area cover in 1994 (cm^2)" 1219.04761904762
+"2" "Fynbos" "Area cover in 2008 (cm^2)" 4128.375
+"3" "Fynbos" "Area cover in 2012 (cm^2)" 1632.95238095238
+"4" "Fynbos" "Number of individuals in 1994" 17.2063492063492
+"5" "Fynbos" "Number of individuals in 2008" 4.3125
+"6" "Fynbos" "Number of individuals in 2012" 5.19047619047619
+"7" "Fynbos" "Standard Deviation of area cover in 1994 (cm^2)" 504.254545454545
+"8" "Fynbos" "Standard Deviation of area cover in 2008 (cm^2)" 1568.1875
+"9" "Fynbos" "Standard Deviation of area cover in 2012 (cm^2)" 360.730158730159
+"10" "Mixed" "Area cover in 1994 (cm^2)" 716.285714285714
+"11" "Mixed" "Area cover in 2008 (cm^2)" NA
+"12" "Mixed" "Area cover in 2012 (cm^2)" NA
+"13" "Mixed" "Number of individuals in 1994" 5.85714285714286
+"14" "Mixed" "Number of individuals in 2008" NA
+"15" "Mixed" "Number of individuals in 2012" NA
+"16" "Mixed" "Standard Deviation of area cover in 1994 (cm^2)" 266.5
+"17" "Mixed" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"18" "Mixed" "Standard Deviation of area cover in 2012 (cm^2)" NA
+"19" "Thicket" "Area cover in 1994 (cm^2)" 149.6
+"20" "Thicket" "Area cover in 2008 (cm^2)" NA
+"21" "Thicket" "Area cover in 2012 (cm^2)" 2143.88571428571
+"22" "Thicket" "Number of individuals in 1994" 23.8
+"23" "Thicket" "Number of individuals in 2008" NA
+"24" "Thicket" "Number of individuals in 2012" 5.6
+"25" "Thicket" "Standard Deviation of area cover in 1994 (cm^2)" 92.6666666666667
+"26" "Thicket" "Standard Deviation of area cover in 2008 (cm^2)" NA
+"27" "Thicket" "Standard Deviation of area cover in 2012 (cm^2)" 1670.87714285714
