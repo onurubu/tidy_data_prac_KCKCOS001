@@ -38,7 +38,7 @@ trplants_tidy %>% select_if(is.factor) %>% sapply(levels)
 
 
 ## Enter column you would like to apply your filter to here, with the name EACTLY as printed in the console, meaning you need to include backticks (``), as well as being case sensitive. After the semicolon (;) enter the filter within that column you would like to apply (again copied exactly as presented in the console)
- {filter_column <- expr("Biome"); filter_level <- "Thicket" # setting the filter parameters
+ {filter_column <- expr(Biome); filter_level <- "Thicket" # setting the filter parameters
    
    filter_column <- rlang::sym(filter_column) # necessary step to overcome quasiquotation problems in tidy packages
    
